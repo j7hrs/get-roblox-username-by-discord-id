@@ -21,8 +21,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -57,7 +55,7 @@ This is most likely to work as almost everyone uses Rover or Bloxlink.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Some stuff has been censored in here to respect privacy.
+Some stuff has been censored in here to respect privacy. (actual output is not censored!!!1!)
 However, all you need to do is to launch main.py to use this.
 ```
 Please enter target Discord ID: 57856611**********
