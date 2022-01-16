@@ -58,6 +58,7 @@ This is most likely to work as almost everyone uses Rover or Bloxlink.
 ## Usage
 
 Some stuff has been censored in here to respect privacy.
+However, all you need to do is to launch main.py to use this.
 ```
 Please enter target Discord ID: 57856611**********
 Bloxlink (id only lol): 16388*****
@@ -65,6 +66,17 @@ Rover: @Paradox********
 ```
 
 
+
+## Getting Discord ID
+
+To get Discord ID, you need to turn on Developer Mode. To do this, follow the steps below:
+1. Launch Discord
+2. Go to User Settings, then Advanced
+3. Turn on Developer Mode
+
+For getting Discord ID, follow the steps below:
+1. Right click a user's avatar, or username
+2. Press "Copy ID"
 
 <!-- LICENSE -->
 ## License
