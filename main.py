@@ -7,11 +7,11 @@ while True:
         if res1.json()['status'] != 'error':
             print('Bloxlink (id only lol):', res1.json()['primaryAccount'])
         else:
-            print('Bloxlink (id only lol): Not Linked')
+            print('Bloxlink (id only lol): Error! (' + res1.json()['error'] + ')')
         res2 = requests.get('https://verify.eryn.io/api/user/' + amogus)
         if res2.json()['status'] != 'error':
             print('Rover: @' + res2.json()['robloxUsername'])
         else:
-            print('Rover: Not Linked')
+            print('Rover: Error! (' + res2.json()['error'] + ')')
     else:
         print('bruh moment')
