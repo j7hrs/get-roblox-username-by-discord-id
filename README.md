@@ -71,6 +71,7 @@ First, you need to turn on Developer Mode. Follow the steps below to turn it on.
 1. Launch Discord
 2. Go to User Settings, then Advanced
 3. Turn on Developer Mode
+
 Now, to get Discord ID, follow steps below.
 1. Right click a user's avatar, or username
 2. Press "Copy ID"
