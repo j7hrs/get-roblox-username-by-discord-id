@@ -1,4 +1,6 @@
 import requests
+import os
+os.system('title Get Roblox Username By Discord ID')
 
 while True:
     amogus = input('Please enter target Discord ID: ')
