@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-This repository makes use of requests to find Roblox usernames by Discord ID.
+This repository makes use of verification APIs to find Roblox usernames by Discord ID.
 This is most likely to work as almost everyone uses Rover or Bloxlink.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
