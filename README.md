@@ -79,7 +79,7 @@ Now, to get Discord ID, follow steps below.
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU GPLv3 License. See `LICENSE.txt` for more information.
+Distributed under the Wattesigma V69 License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
